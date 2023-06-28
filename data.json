@@ -1,0 +1,147 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "firstName": "lesley",
+      "lastName": "lastName",
+      "userName": "userName",
+      "email": "test@gmail.com",
+      "password": "Passw#",
+      "confirmPassword": "Passw#",
+      "expiredDate": "1995-06-05",
+      "groupAccess": "Devops"
+    },
+    {
+      "id": 2,
+      "firstName": "aamoy",
+      "lastName": "lastName1",
+      "userName": "userName",
+      "email": "email@gmail.com",
+      "password": "password",
+      "confirmPassword": "confirmPassword",
+      "expiredDate": "1995-06-05",
+      "groupAccess": "groupAccess"
+    },
+    {
+      "id": 3,
+      "firstName": "gusion",
+      "lastName": "lastName2",
+      "userName": "userName",
+      "email": "email@gmail.com",
+      "password": "password",
+      "confirmPassword": "confirmPassword",
+      "expiredDate": "1995-06-05",
+      "groupAccess": "groupAccess"
+    },
+    {
+      "id": 4,
+      "firstName": "zhask",
+      "lastName": "lastName3",
+      "userName": "userName",
+      "email": "email@gmail.com",
+      "password": "password",
+      "confirmPassword": "confirmPassword",
+      "expiredDate": "1995-06-05",
+      "groupAccess": "groupAccess"
+    },
+    {
+      "id": 5,
+      "firstName": "cyclops",
+      "lastName": "lastName4",
+      "userName": "userName",
+      "email": "email@gmail.com",
+      "password": "password",
+      "confirmPassword": "confirmPassword",
+      "expiredDate": "1995-06-05",
+      "groupAccess": "groupAccess"
+    },
+    {
+      "id": 6,
+      "firstName": "bruno",
+      "lastName": "lastName5",
+      "userName": "userName",
+      "email": "email@gmail.com",
+      "password": "password",
+      "confirmPassword": "confirmPassword",
+      "expiredDate": "1995-06-05",
+      "groupAccess": "groupAccess"
+    },
+    {
+      "id": 7,
+      "firstName": "fredin",
+      "lastName": "lastName5",
+      "userName": "userName",
+      "email": "email@gmail.com",
+      "password": "password",
+      "confirmPassword": "confirmPassword",
+      "expiredDate": "1995-06-05",
+      "groupAccess": "groupAccess"
+    },
+    {
+      "firstName": "franco",
+      "lastName": "Santoso edit",
+      "userName": "budibrassEdit",
+      "email": "admin@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "expiredDate": "1991-01-01",
+      "groupAccess": "Test edit",
+      "id": 8
+    },
+    {
+      "firstName": "nana",
+      "lastName": "Santoso edit",
+      "userName": "budibrassEdit",
+      "email": "admin@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "expiredDate": "1991-01-01",
+      "groupAccess": "Test edit",
+      "id": 9
+    },
+    {
+      "firstName": "balmon",
+      "lastName": "Santoso edit",
+      "userName": "budibrassEdit",
+      "email": "admin@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "expiredDate": "1991-01-01",
+      "groupAccess": "Test edit",
+      "id": 10
+    },
+    {
+      "firstName": "alucard",
+      "lastName": "Santoso edit",
+      "userName": "budibrassEdit",
+      "email": "admin@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "expiredDate": "1991-01-01",
+      "groupAccess": "Test edit",
+      "id": 12
+    },
+    {
+      "firstName": "alucard",
+      "lastName": "Santoso edit",
+      "userName": "budibrassEdit",
+      "email": "admin@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "expiredDate": "1991-01-01",
+      "groupAccess": "Test edit",
+      "id": 13
+    },
+    {
+      "firstName": "Budi",
+      "lastName": "Santoso",
+      "userName": "fifadatest11@gmail.com",
+      "email": "admin@gmail.com",
+      "password": "Passw#",
+      "confirmPassword": "Passw#",
+      "expiredDate": "1993-05-05",
+      "groupAccess": "Test edit",
+      "id": 16
+    }
+  ]
+}
